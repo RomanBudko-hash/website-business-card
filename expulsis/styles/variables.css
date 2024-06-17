@@ -1,0 +1,21 @@
+:root {
+  --wrapper-max-width: 1024px;
+  --wrapper-border-color: #3ab795;
+  --wrapper-background1: #edead0;
+  --wrapper-background2: #3ab795;
+  --wrapper-background3: #86baa1;
+  --wrapper-background4: #ffcf56;
+  --wrapper-shadow: white;
+  --font-size: 14px;
+  --body-background: black;
+  --btn-border-color: black;
+  --btn-text-color: black;
+  --btn-shadow-color: black;
+  --btn-text-animation: #edead0;
+
+  --deep-green: #3ab795;
+  --light-green-1: #a0e8af;
+  --light-green-2: #86baa1;
+  --beige: #edead0;
+  --yellow: #ffcf56;
+}
