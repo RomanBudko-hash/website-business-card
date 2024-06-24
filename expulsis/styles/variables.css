@@ -12,10 +12,14 @@
   --btn-text-color: black;
   --btn-shadow-color: black;
   --btn-text-animation: #edead0;
+  --description-text: rgba(255, 255, 255, 1);
 
   --deep-green: #3ab795;
   --light-green-1: #a0e8af;
   --light-green-2: #86baa1;
   --beige: #edead0;
   --yellow: #ffcf56;
+
+  --left-photo: url('../img/Снимок\ экрана\ 2024-06-23\ в\ 23.31.41\ 23.35.15.png');
+  --right-photo: url('../img/Снимок\ экрана\ 2024-06-23\ в\ 23.32.10.png');
 }
