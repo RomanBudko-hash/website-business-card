@@ -9,7 +9,7 @@
 
 .header__typing-text {
   width: 21ch;
-  animation: typing 2.5s steps(25), blink 0.5s step-end infinite alternate;
+  animation: typing 2.5s steps(25), blink 0.5s step-end alternate;
   white-space: nowrap;
   overflow: hidden;
   border-right: 2px solid;
@@ -25,20 +25,7 @@
   cursor: pointer;
 }
 
-/* @keyframes upAndDown {
-  0% {
-    top: calc(50% - 26px);
-  }
-  25% {
-    top: calc(25% - 26px);
-  }
-  75% {
-    top: calc(75% - 26px);
-  }
-  100% {
-    top: calc(50% - 26px);
-  }
-} */
+/* TODO: I will should to fix bag with force stop animation*/
 
 @keyframes typing {
   from {

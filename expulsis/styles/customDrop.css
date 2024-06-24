@@ -18,4 +18,10 @@ li {
 
 a {
   display: block;
+  text-decoration: none;
+  color: inherit;
+}
+
+a:visited {
+  color: inherit;
 }
