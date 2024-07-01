@@ -7,7 +7,7 @@
   --wrapper-background4: #ffcf56;
   --wrapper-shadow: white;
   --font-size: 14px;
-  --body-background: black;
+  --body-background: #edead0;
   --btn-border-color: black;
   --btn-text-color: black;
   --btn-shadow-color: black;
@@ -20,6 +20,6 @@
   --beige: #edead0;
   --yellow: #ffcf56;
 
-  --left-photo: url('../img/Снимок\ экрана\ 2024-06-23\ в\ 23.31.41\ 23.35.15.png');
-  --right-photo: url('../img/Снимок\ экрана\ 2024-06-23\ в\ 23.32.10.png');
+  --left-picture: url('./img/left-picture.png');
+  --right-picture: url('./img/right-picture.png');
 }
